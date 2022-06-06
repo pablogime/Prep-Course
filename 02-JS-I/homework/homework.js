@@ -113,8 +113,9 @@ function obtenerResto(x, y) {
  var diferencia = x / y;
  return diferencia;
 }
-diferencia = diferenciadedivision(21, 5);
- function esPar(num) {
+  diferencia = diferenciadedivision(21, 5);
+
+function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
