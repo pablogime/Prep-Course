@@ -110,10 +110,10 @@ function mayorQueCincuenta(num) {
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
- var diferencia = x / y;
- return diferencia;
+ var obtenerResto = x % y;
+ return obtenerResto;
 }
-  diferencia = diferenciadedivision(21, 5);
+  obtenerResto(21, 5);
 
 function esPar(num) {
   // Devuelve "true" si "num" es par
